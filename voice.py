@@ -19,7 +19,7 @@ def take_command():
     seconds = 6
 
     try:
-        speak("Cheppandi nenu vintunnanu...")
+        speak("Listening...")
 
         print("Recording...")
 
